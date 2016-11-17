@@ -1,0 +1,16 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+#container {
+  text-align: center;
+  margin: 50px 0px 0px 100px;
+}
+h1 {
+  font-size: 16pt;
+}
+
+a, form {
+  display: inline-block;
+}
